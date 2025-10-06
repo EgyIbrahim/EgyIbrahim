@@ -1,26 +1,29 @@
 # Hi there, I'm EgyIbrahim! 👋
 
-I'm a second-year Computer Science student at the University of Huddersfield with a passion for everything from hardware to software. I’m a forward-thinking cybersecurity enthusiast who is always exploring new technologies, whether it's diving into Linux, developing web projects, or mastering programming languages like C and Python.
+I’m a third-year **Computer Science and Information Systems student** at the University of Huddersfield with a passion for both hardware and software. I’m especially driven by **cybersecurity**, where I explore penetration testing, vulnerability labs, CTFs, and security best practices. Alongside this, I enjoy working with systems programming, web development, and databases.
 
 ## About Me
 
-- 🔭 **Current Focus:** Working on my Comptia Security+ certification while actively learning about compilers.
-- 🌱 **Learning Journey:** Expanding my expertise in cybersecurity with interests in penetration testing, bug bounty, and CTF challenges.
+- 🔭 **Current Focus:** Preparing for industry placements and internships while developing skills in penetration testing, databases, and systems security.
+- 🌱 **Learning Journey:** Exploring **C programming, Java, SQL, and compilers**, while pursuing certifications like **CompTIA Security+**.
 - 🤝 **Collaboration:** Open to collaborating on projects that challenge and extend my knowledge in cybersecurity, operating systems, and software development.
 - 💬 **Ask Me About:** Cybersecurity practices, ethical hacking, system programming, or the history of technology and cryptography.
 - 📫 **Get in Touch:** Feel free to reach out via GitHub or my preferred social channels.
 
 ## Skills & Technologies
 
-- **Programming Languages:** C, Python, and more.
-- **Cybersecurity:** Penetration testing, bug bounty hunting, and CTF challenges.
-- **Operating Systems:** Linux and Windows.
-- **Web Development:** Frontend and backend fundamentals.
+- **Programming Languages:** C, Python, Java, SQL, BASH.
+- **Cybersecurity:** Vulnerability labs(Kali Linux, HackTHeBox, TryHackMe, incident response fundamentals).
+- **Operating Systems:** Linux(Kali, Ubuntu) and Windows.
+- **Web Development:** PHP, Apache, Xampp(Lampp), github
 - **Other Interests:** Cryptography, game hacking, and understanding the evolution of computer systems.
 
 ## Future Goals
 
-I’m passionate about mastering the art of cybersecurity, not just for the technical challenges but also to contribute to a safer digital world. I’m continuously exploring new frontiers in technology and innovation, and I’m excited to bring a forward-thinking approach to every project I undertake.
+## 🎯 Future Goals  
+
+I aim to build a career in **cybersecurity and networking**, with aspirations of becoming a **Network Engineer, Cybersecurity Analyst, Penetration Tester, or Security Engineer**. I will also be the **President and Founder of the CyberSecurity Society** at the University of Huddersfield, fostering a community for students to learn, collaborate, and grow in the field. My ultimate goal is to master the balance between **security, innovation, and reliability**, contributing to a safer and smarter digital world.  
+
 
 ---
 
