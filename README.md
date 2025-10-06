@@ -18,7 +18,6 @@ I’m a third-year **Computer Science and Information Systems student** at the U
 - **Web Development:** PHP, Apache, Xampp(Lampp), github
 - **Other Interests:** Cryptography, game hacking, and understanding the evolution of computer systems.
 
-## Future Goals
 
 ## 🎯 Future Goals  
 
